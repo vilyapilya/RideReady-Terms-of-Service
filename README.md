@@ -2,12 +2,12 @@
 
 **Effective Date:** [Insert Date]  
 
-Welcome to **[App Name]** (“the App”), a scheduling and management tool designed for horseback riding coaches and their students. By accessing or using the App, you agree to these Terms of Service (“Terms”). Please read them carefully.  
+Welcome to **[RideReady]** (“the App”), a scheduling and management tool designed for horseback riding coaches and their students. By accessing or using the App, you agree to these Terms of Service (“Terms”). Please read them carefully.  
 
 ---
 
 ## 1. Eligibility
-You must be at least 18 years old to use this App. By using the App, you represent that you have the authority to enter into this agreement.  
+You must be at least 18 years old to use this App as a trainer/coach. By using the App, you represent that you have the authority to enter into this agreement.  
 
 ---
 
@@ -37,7 +37,6 @@ The App does **not** provide coaching, training, or equestrian services directly
 
 ## 5. User Responsibilities
 You agree to:  
-- Provide accurate information about students, horses, and schedules.  
 - Use the App in compliance with applicable laws and stable rules.  
 - Avoid misuse of the App, including attempts to hack, overload, or disrupt service.  
 
@@ -45,7 +44,8 @@ You agree to:
 
 ## 6. Limitation of Liability
 - The App is provided **“as is”** without warranties of any kind.  
-- We are not responsible for accidents, injuries, or damages related to horseback riding or lessons scheduled through the App.  
+- We are not responsible for accidents, injuries, or damages related to horseback riding or lessons scheduled through the App.
+- We are not resposible for 
 - Our liability is limited to the maximum extent permitted by law.  
 
 ---
@@ -61,10 +61,10 @@ We may update these Terms from time to time. Continued use of the App after chan
 ---
 
 ## 9. Governing Law
-These Terms are governed by the laws of **[Your Country/State]**.  
+These Terms are governed by the laws of **[USA/California]**.  
 
 ---
 
 ## 10. Contact
 For questions about these Terms, contact us at:  
-📧 **[Your Email / Website Contact Form]**
+📧 **[rideready2025@gmail.com]**

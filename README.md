@@ -2,7 +2,7 @@
 
 **Effective Date:** [Insert Date]  
 
-Welcome to **[RideReady]** (“the App”), a scheduling and management tool designed for horseback riding coaches and their students. By accessing or using the App, you agree to these Terms of Service (“Terms”). Please read them carefully.  
+Welcome to **RideReady** (“the App”), a scheduling and management tool designed for horseback riding coaches and their students. By accessing or using the App, you agree to these Terms of Service (“Terms”). Please read them carefully.  
 
 ---
 
@@ -61,10 +61,10 @@ We may update these Terms from time to time. Continued use of the App after chan
 ---
 
 ## 9. Governing Law
-These Terms are governed by the laws of **[USA/California]**.  
+These Terms are governed by the laws of **USA/California**.  
 
 ---
 
 ## 10. Contact
 For questions about these Terms, contact us at:  
-📧 **[rideready2025@gmail.com]**
+📧 **rideready2025@gmail.com**
